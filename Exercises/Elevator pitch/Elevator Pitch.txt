@@ -1,0 +1,11 @@
+Ik ben Kilian De Bock, ik ben een eerstejaarsstudent programmeren van 21 jaar met een passie
+voor JavaScript. Ik ben een dierenvriend en hou van development. Door mijn vrijwilligerswerk als
+Rode Kruis medewerker heb ik verschillende competenties verworven, zoals samenwerken, onder
+tijdsdruk werken en communiceren als communicatie verantwoordelijke. In mijn vrije tijd werk ik
+aan Discord bots en ben ik daar beta tester. All 1000 mensen gebruiken mijn bots. Daarnaast ben
+ik vaak bezig met server onderhoud en ontwikkelingen, zo heb ik servers thuis, in de New York en
+in Antwerpen die ik onderhoud. Ik speel graag met domotica en smart home. Ik heb ook een
+hobby in 3D-printen, ik heb 2 3D-printers, één FDM en één SLA-printer. Onder vrienden sta ik
+bekend als de techsupport, en iedereen komt naar me toe met technologische problemen. Ik zoek
+eerste ervaring in de IT-sector om mijn kennis van Node.js uit te breiden. Met welke framework
+werken jullie?
